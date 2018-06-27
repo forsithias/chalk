@@ -4,7 +4,7 @@ blog_theme: light # Or use dark
 name: Chalk
 paginate: 25
 baseurl: "forsithias.github.io/chalk"
-url: "https://forsithias.github.io/chalk/"
+url: "forsithias.github.io/chalk"
 
 
 # Optional settings
